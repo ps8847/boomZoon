@@ -49,7 +49,7 @@ STREAM_SECRET_KEY=
 3. Start the development servers:
 
     ```bash
-  npm run dev
+    npm run dev
     ```
 Open http://localhost:3000 with your browser to see the result.
 
