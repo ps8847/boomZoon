@@ -10,7 +10,7 @@ BoomZoom is a video conferencing app, a clone of the popular Zoom app. It provid
 
 ## Live Demo
 
-Check out the live version of BoomZoom: [boom-zoon-ps8847s-projects.vercel.app](https://boom-zoon-git-main-ps8847s-projects.vercel.app/sign-in?redirect_url=https%3A%2F%2Fboom-zoon-git-main-ps8847s-projects.vercel.app%2F)
+Check out the live version of BoomZoom: [boom-zoon-ps8847s-projects.vercel.app](https://boom-zoon-88thyh0z3-ps8847s-projects.vercel.app/sign-in?redirect_url=https%3A%2F%2Fboom-zoon-88thyh0z3-ps8847s-projects.vercel.app%2F)
 
 ## Technologies Used
 
